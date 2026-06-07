@@ -1,5 +1,3 @@
-If you want your GitHub README to look **modern and professional**, add badges, emojis, architecture sections, and screenshots. Here's a polished header section you can place at the top:
-
 <div align="center">
 
 # 🚀 MLflow Tracking Server on AWS EC2
