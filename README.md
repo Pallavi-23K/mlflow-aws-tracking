@@ -192,8 +192,4 @@ Model Metadata
 Experiment Runs
 ```
 
--
 
-
-
-This style looks much more like a professional GitHub portfolio project and is suitable for internship applications.
